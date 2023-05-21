@@ -14,13 +14,21 @@ function Footer() {
 					© 2023 Arjun Silwal<a href="/" className="hover:underline"></a>
 				</div>
 				<div className="flex flex-row items-center justify-center space-x-2 mb-1 text-neutral-500">
-					<a href="" rel="noreferrer" target="_blank">
+					<a
+						href="https://github.com/Arjunsilwal"
+						rel="noreferrer"
+						target="_blank"
+					>
 						<AiOutlineGithub
 							className="hover:-translate-y-1 transition-transform cursor-pointer text-neutral-500"
 							size={30}
 						/>
 					</a>
-					<a href="" rel="noreferrer" target="_blank">
+					<a
+						href="https://www.linkedin.com/in/arjun-silwal/"
+						rel="noreferrer"
+						target="_blank"
+					>
 						<AiOutlineLinkedin
 							className="hover:-translate-y-1 transition-transform cursor-pointer text-neutral-500"
 							size={30}
